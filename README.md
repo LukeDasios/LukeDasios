@@ -22,7 +22,7 @@ Visit my [personal website](https://lukedasios.github.io/PersonalWebsite/index.h
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
-### Competetive Programmimg 🏆
+### Competetive Programming 🏆
 <a href="https://leetcode.com/Luke_Das/" target="_blank">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
 </a>
