@@ -1,8 +1,8 @@
 ## Hi there! 👋
 
-I'm Luke, a 4th year student studying Computer Science and Economics at Wilfrid Laurier University with a passion for software engineering. I dream of designing and building applications that will make the world a better place. I love a good challenge and am always looking for opportunities to further refine my craft and learn new things, usually through hackathons, competitive programming competitions, and side projects.
+I'm Luke, a 5th year student studying Computer Science and Economics at Wilfrid Laurier University with a passion for software engineering. I dream of designing and building applications that will make the world a better place. I love a good challenge and am always looking for opportunities to further refine my craft and learn new things, usually through hackathons, competitive programming competitions, and side projects.
 
-Visit my [personal website](https://lukedasios.github.io/PersonalWebsite/index.html) to learn more about me!
+Visit my [personal website](https://portfolio-6ieausscq-lukedasios.vercel.app/) to learn more about me!
 
 ### Skills 🧑🏻‍💻
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
