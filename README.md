@@ -14,9 +14,10 @@ Visit my [personal website](https://www.lukedasios.com/) to learn more about me!
 - Captain of Laurier's chess club ♟️
 
 ### Previously...
-- Software Developer at [Clio](https://www.clio.com/) 📜
+- Software Developer at [Clio](https://www.clio.com/) ⚖️
 - Startup Founder at [Student Sublets](https://www.studentsublets.co/) 🏘
 - Startup Founder at [Remindyr](https://github.com/LukeDasios/Remindyr) 📱
 - Acquired AWS's [Certified Cloud Practitioner Certification](https://www.credly.com/badges/6bce9f58-f523-4a3f-8f48-65e11a84bc98/public_url) ☁️
+- One of four students handpicked from the Economics department to represent Wilfrid Laurier University at The Bank of Canada's [Governor's Challenge](https://www.bankofcanada.ca/research/governors-challenge/) 🏦
 - VP of Finance at [PennyDrops](https://www.pennydrops.org/) 💡
 
