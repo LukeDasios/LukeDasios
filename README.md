@@ -9,7 +9,7 @@ Visit my [personal website](https://www.lukedasios.com/) to learn more about me!
 
 ### Currently...
 - Software Developer at [D2L](https://www.d2l.com/) 🏫
-- Competitively Programming on Leetcode [LeetCode](https://leetcode.com/Luke_Das/) 🏆
+- Competitively Programming on [LeetCode](https://leetcode.com/Luke_Das/) 🏆
 - Studying to acquire AWS's [Certified Developer Certification](https://aws.amazon.com/certification/certified-developer-associate/?trk=388d2989-92ff-4df0-b2ee-d3064582f09e&sc_channel=ps&ef_id=CjwKCAjwpJWoBhA8EiwAHZFzfh9RO8Iovt_cV_3daK5EaH9Dkw5Zze3w5qbl_KFEp6ZagIpjJYFliRoCmDYQAvD_BwE:G:s&s_kwcid=AL!4422!3!508672714309!e!!g!!aws%20developer%20certification!11138243030!106933369902) ☁️
 - Captain of Laurier's chess club ♟️
 
