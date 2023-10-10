@@ -18,6 +18,6 @@ Visit my [personal website](https://www.lukedasios.com/) to learn more about me!
 - Startup Founder at [Student Sublets](https://www.studentsublets.co/) 🏘
 - Startup Founder at [Remindyr](https://github.com/LukeDasios/Remindyr) 📱
 - Acquired AWS's [Certified Cloud Practitioner Certification](https://www.credly.com/badges/6bce9f58-f523-4a3f-8f48-65e11a84bc98/public_url) ☁
-- Wrote a [research paper] (https://docs.google.com/document/d/1Hc-xWqiaFLRx9VlxLxSlppWmTNr_Tcyk5FbokxV6wdQ/edit?usp=sharing) studying the effect of Canada's future immigration levels plan on rental prices 📃
+- Wrote a [research paper](https://docs.google.com/document/d/1Hc-xWqiaFLRx9VlxLxSlppWmTNr_Tcyk5FbokxV6wdQ/edit) studying the effect of Canada's future immigration levels plan on rental prices 📃
 - VP of Finance at [PennyDrops](https://www.pennydrops.org/) 💡
 - Selected for The Bank of Canada's [Governor's Challenge](https://www.bankofcanada.ca/research/governors-challenge/) 🏦
