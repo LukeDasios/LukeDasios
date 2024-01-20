@@ -14,8 +14,6 @@ Visit my [personal website](https://www.lukedasios.com/) to learn more about me!
 - Software Developer at [Props.Cash](https://props.cash/) 💰
 - Software Developer at [D2L](https://www.d2l.com/) 🏫
 - Software Developer at [Clio](https://www.clio.com/) ⚖️
-- Startup Founder at [Student Sublets](https://www.studentsublets.co/) 🏘
-- Startup Founder at [Remindyr](https://github.com/LukeDasios/Remindyr) 📱
 - Acquired AWS's [Certified Cloud Practitioner Certification](https://www.credly.com/badges/6bce9f58-f523-4a3f-8f48-65e11a84bc98/public_url) ☁
 - Wrote an Economics [research paper](https://docs.google.com/document/d/1Hc-xWqiaFLRx9VlxLxSlppWmTNr_Tcyk5FbokxV6wdQ/edit) 📃
 - VP of Finance at [PennyDrops](https://www.pennydrops.org/) 💡
