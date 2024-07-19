@@ -15,6 +15,6 @@ Visit my [personal website](https://www.lukedasios.com/) to learn more about me!
 - Software Developer at [D2L](https://www.d2l.com/) 🏫
 - Software Developer at [Clio](https://www.clio.com/) ⚖️
 - Acquired AWS's [Certified Cloud Practitioner Certification](https://www.credly.com/badges/6bce9f58-f523-4a3f-8f48-65e11a84bc98/public_url) ☁
-- Wrote an Economics research paper on [How positive shocks to immigration levels affect the rental housing market in Canadian CMAs](https://docs.google.com/document/d/1Hc-xWqiaFLRx9VlxLxSlppWmTNr_Tcyk5FbokxV6wdQ) 📃
+- Wrote an Economics [research paper](https://docs.google.com/document/d/1Hc-xWqiaFLRx9VlxLxSlppWmTNr_Tcyk5FbokxV6wdQ) analyzing the effects of immigration on rental prices 📃
 - VP of Finance at [PennyDrops](https://www.pennydrops.org/) 💡
 - Selected for The Bank of Canada's [Governor's Challenge](https://www.bankofcanada.ca/research/governors-challenge/) 🏦
