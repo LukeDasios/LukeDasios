@@ -14,6 +14,7 @@ Visit my [personal website](https://www.lukedasios.com/) to learn more about me!
 - Computer Systems Analyst at [Props.Cash](https://props.cash/) 💰
 - Computer Systems Analyst at [D2L](https://www.d2l.com/) 🏫
 - Computer Systems Analyst at [Clio](https://www.clio.com/) ⚖️
+- - Computer Systems Analyst at [Kourtis Condo Interiors](https://www.kourtiscondos.ca/) :construction:
 - Acquired AWS's [Certified Cloud Practitioner Certification](https://www.credly.com/badges/6bce9f58-f523-4a3f-8f48-65e11a84bc98/public_url) ☁
 - Wrote an Economics [research paper](https://docs.google.com/document/d/1Hc-xWqiaFLRx9VlxLxSlppWmTNr_Tcyk5FbokxV6wdQ) analyzing the effects of immigration on rental prices 📃
 - VP of Finance at [PennyDrops](https://www.pennydrops.org/) 💡
