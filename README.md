@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Luke, a 5th-year student completing the Computer Science and Economics Double Major program at Wilfrid Laurier University. I have a passion for software engineering and I dream of designing and building applications that will make the world a better place. I love a good challenge and am always looking for opportunities to further refine my craft and learn new things, usually through hackathons, competitive programming competitions, and side projects.
+I'm Luke, a 5th-year student completing the Computer Science and Economics Double Major program at Wilfrid Laurier University. I have a passion for computer system analysis and I dream of designing and building applications that will make the world a better place. I love a good challenge and am always looking for opportunities to further refine my craft and learn new things, usually through hackathons, competitive programming competitions, and side projects.
 
 Visit my [personal website](https://www.lukedasios.com/) to learn more about me! 
 
